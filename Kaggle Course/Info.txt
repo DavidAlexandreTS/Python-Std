@@ -1,0 +1,2 @@
+Python course solutions provided by Kaggle at the following link:
+https://www.kaggle.com/code/colinmorris/hello-python/tutorial
